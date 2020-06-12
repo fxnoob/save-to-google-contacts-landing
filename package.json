@@ -1,0 +1,23 @@
+{
+  "name": "save-to-google-contacts-landing",
+  "version": "1.0.0",
+  "description": "Save to google contacts from webpages to your phone",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxnoob/save-to-google-contacts-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxnoob/save-to-google-contacts-landing/issues"
+  },
+  "homepage": "https://github.com/fxnoob/save-to-google-contacts-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
